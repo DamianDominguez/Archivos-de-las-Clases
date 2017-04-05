@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491396619 source:c:\df\arrayparalelo\main.c
+	<stdio.h>
+	<stdlib.h>
+
